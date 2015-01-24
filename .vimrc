@@ -1,6 +1,6 @@
 execute pathogen#infect()
 syntax on
-colors elford
+colors elflord
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
